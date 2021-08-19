@@ -24,7 +24,7 @@
 }
 
 .header_inner nav ul li .color {
-  color: #ff8856;
+  color: #669696;
 }
 
 .header_inner nav ul a:hover {
@@ -45,7 +45,7 @@
 .top_inner h1 {
   position: absolute;
   font-size: 40px;
-  color: #ff8856;
+  color: #669696;
   bottom: 0;
   background: #fff;
   padding: 30px 100px 0 50px;
@@ -68,7 +68,7 @@
 
 .contact h3 {
   font-size: 50px;
-  color: #ff8856;
+  color: #669696;
   text-align: center;
 }
 
@@ -87,7 +87,7 @@
 .contact .btn a {
   text-align: center;
   position: relative;
-  background: #ff8856;
+  background: #669696;
   padding: 20px 60px;
   color: #fff;
   font-weight: bold;

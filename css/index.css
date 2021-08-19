@@ -24,7 +24,7 @@
 }
 
 .header_inner nav ul li .color {
-  color: #ff8856;
+  color: #669696;
 }
 
 .header_inner nav ul a:hover {
@@ -51,7 +51,7 @@
 
 .top_inner h1 {
   font-size: 100px;
-  color: #ff8856;
+  color: #669696;
 }
 
 .top_inner h2 {
@@ -80,7 +80,7 @@
 .news h3 {
   text-align: center;
   font-size: 40px;
-  color: #ff8856;
+  color: #669696;
   font-weight: bold;
   line-height: 1;
 }
@@ -123,7 +123,7 @@
 .feature_inner {
   width: 50%;
   background-color: #fff;
-  border-top:solid 3px #ff8856;
+  border-top:solid 3px #669696;
   position: relative;
   float: right;
   z-index: 3;
@@ -133,7 +133,7 @@
 .feature_inner h4 {
   font-size: 50px;
   padding: 15% 0 0 15%;
-  color: #ff8856;
+  color: #669696;
 }
 
 .feature_inner small {
@@ -180,7 +180,7 @@
 .service h3 {
   text-align: center;
   font-size: 50px;
-  color: #ff8856;
+  color: #669696;
   line-height: 1;
 }
 
@@ -219,7 +219,7 @@
 
 .service_item small {
   font-size: 13px;
-  color: #ff8856;
+  color: #669696;
   font-weight: bold;
 }
 
@@ -229,7 +229,7 @@
 }
 
 .service .btn a {
-  background: #ff8856;
+  background: #669696;
   padding: 20px 60px;
   position: relative;
   top: 90px;
@@ -253,7 +253,7 @@
 
 .recruit h3 {
   font-size: 50px;
-  color: #ff8856;
+  color: #669696;
 }
 
 .recruit h3 small {
@@ -275,7 +275,7 @@
 
 .recruit .btn a {
   text-align: center;
-  background: #ff8856;
+  background: #669696;
   padding: 20px 60px;
   position: relative;
   top: 90px;
@@ -368,7 +368,7 @@ footer {
 
 .contact h3 {
   font-size: 50px;
-  color: #ff8856;
+  color: #669696;
   text-align: center;
 }
 
@@ -387,7 +387,7 @@ footer {
 .contact .btn a {
   text-align: center;
   position: relative;
-  background: #ff8856;
+  background: #669696;
   padding: 20px 60px;
   color: #fff;
   font-weight: bold;
